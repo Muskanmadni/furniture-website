@@ -14,7 +14,7 @@ export default function AboutPage() {
         <section className="mb-12">
           <h2 className="text-2xl font-semibold text-gray-800 mb-4">Our Mission</h2>
           <p className="text-gray-600 leading-relaxed">
-            We are dedicated to creating innovative solutions that make a positive impact on people's lives.
+            We are dedicated to creating innovative solutions that make a positive impact on people&apos;s lives.
             Our team of experts works tirelessly to deliver exceptional products and services that exceed
             expectations and drive meaningful change in the industry.
           </p>
@@ -23,7 +23,7 @@ export default function AboutPage() {
         <section className="mb-12">
           <h2 className="text-2xl font-semibold text-gray-800 mb-4">Our Story</h2>
           <p className="text-gray-600 leading-relaxed">
-            Founded with a vision to revolutionize the way people interact with technology, we've grown
+            Founded with a vision to revolutionize the way people interact with technology, we&apos;ve grown
             from a small startup to a trusted name in the industry. Our journey has been marked by
             continuous innovation, customer satisfaction, and a commitment to excellence.
           </p>
